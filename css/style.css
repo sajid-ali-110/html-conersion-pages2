@@ -1,0 +1,266 @@
+.head p{ 
+	margin-top: -30px;
+	 font-size: 20px;
+	 font-weight: bold;
+	 color: lightgreen;
+}
+a{
+	text-decoration: none;
+	cursor: pointer;
+}
+a p:hover{
+	color: green;
+}
+.v{
+
+}
+.A{
+	/*width: 900px;*/
+	background-color: #f5f5f5;
+	display: flex;
+	height: 600px;
+	margin-left:0px;
+	background-image:  url(../img/man.png) ;
+	background-position: top;
+	background-size: cover;
+}
+.img1{
+	border-radius: 5px;
+}
+.Head .col{
+	display: flex;
+}
+.font{
+	padding-left: 10px;
+    display:block;
+  	width:100%;
+    font:900 90px 'Concert One', sans-serif;
+    text-transform:uppercase;
+    padding-left: 280px;
+    position:relative;
+    color:#0a0a0a;
+	-webkit-text-stroke: 1px green;
+	color: white;
+}
+.font span {
+	color: lightgreen;
+}
+.about {
+	font-size: 130px;
+	font-weight: bolder;
+	-webkit-text-stroke: 0.3px green;
+	color: white;
+	position: relative;
+}
+.bernard {
+	position: absolute;
+	top: 70px;
+	font-size: 10px;
+}
+.port {
+	font-size: 160px;
+	color: white;
+	-webkit-text-stroke: 0.3px lightgrey;
+	position: relative;
+}
+.featured {
+	position: absolute;
+	top: 130px;
+	left: 30px;
+}
+.clear{
+    padding-left: 300px;
+	position: relative;
+	font-weight: bold;
+	font-size: 30px;
+	
+}
+.D h1, h4{
+	text-align: left;
+}
+.D h1{
+	color: green;
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+.but{
+	position: relative;
+	/*left: 200px;*/
+	top: 20px;
+	/*padding: 20px;*/
+	border-radius: 30px;
+	font-weight: bold;
+	background-color: green;
+	color: white;
+	font-size: 20px;
+}
+.img{
+	position: relative;
+	left: 40px;
+}
+.hexa{
+	height: 1500px;
+	background-color: #f7f7f7;
+}
+.e{
+	position: relative;
+	top: 150px;
+	/*height: 400px;*/
+}
+.e h1{
+	font-weight: bold;
+	font-size: 40px;
+	height: 300px;
+}
+.shade{
+	position: relative;
+	
+}
+.overlap{
+	width: 63%;
+	height: 75%;
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	opacity: 0;
+	transition: 0.30s;
+}
+.D {
+	position: relative;
+	bottom: 30%;
+}
+.overlap:hover{
+	opacity: 1;
+}
+.overlap h2{
+	font-size: 20px;
+	font-weight: bold;
+}
+.N{
+	width: 16rem;
+	clear: both;
+	height: 70px;
+	background-color: green;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	border-radius: 30px;
+	position: relative;
+	left: 400px;
+	top: 8rem;
+}
+.S{
+	height: 400px;
+	border: 1px solid lightgray;
+	border-radius: 10px;
+	/*padding-top: 0px;*/	
+}
+.M{
+	border:  1px solid gray;
+	height: 200px;
+	
+}
+.img2{
+	position: relative;
+	left: -10px;
+	/*border-radius: 20px;*/
+}
+.sajjuu {
+	position: relative;
+}
+.testi {
+	-webkit-text-stroke: 1px lightgrey;
+	color: white;
+	font-size: 180px;
+	opacity: 0.3
+}
+.taq{
+	font-weight: bold;
+	font-size: 60px;
+	position: absolute;
+	top: 18%;
+}
+.one{
+	margin-top: 40px;
+}
+.cool{
+	font-weight: bolder;
+	font-size: 200px;
+	color: green;
+}
+.flex{
+	display: flex;
+	flex-direction: column;
+	}
+.img4{
+	border-radius: 15px;
+}
+.img5{
+	border-radius: 100%;
+}
+.four{
+	height: 1100px;
+	background-color: #f5f5f5;
+	margin-top: 200px;
+}
+.foe{
+	position: relative;
+	top:150px;
+}
+.news {
+	font-size: 150px;
+	font-weight: bolder;
+	-webkit-text-stroke: 1px lightgrey;
+	color: white;
+	position: relative;
+}
+.font1{
+	font-weight: bolder;
+	font-size: 40px;
+	position: absolute;
+	top: 160px;
+	left: 10px;
+}
+.img6{
+	padding-top: 30px;
+	height: 400px;
+	
+}
+.img7{
+	transition: transform .2s; 
+	border-radius: 20px;
+	filter: blur(2px);
+}
+.img7:hover {
+	filter: none;
+}
+.contact {
+	-webkit-text-stroke: 1px lightgrey;
+	font-size: 150px;
+	color: white;
+}
+.bold{
+	font-weight: bolder;
+	font-size: 50px;
+	position: absolute;
+	top: 90px;
+}
+.last{
+	position: relative;
+	height: 1000px;
+}
+.button{
+	background-color: green;
+	color:white;
+	font-weight: bolder;
+	/*padding: 14px;*/
+	border-radius: 15px;
+
+}
